@@ -13,7 +13,7 @@
 <body>
     <section id="nav">
         <div class="navbar">
-            <a href="./index2.html">Home</a>
+            <a href="./index2.php">Home</a>
             <a href="">About Us</a>
             <a href="http://localhost/Cafe%20management%20System/Project/register.php">Registration</a>
             <a href="../Cafe management System/Project/login2.php">Login</a>
